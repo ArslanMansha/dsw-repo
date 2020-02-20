@@ -1,2 +1,2 @@
 # dsw-repo
-scrapped the from dsw.com using proxy middlewares
+scrapped the items from dsw.com using proxy middlewares
